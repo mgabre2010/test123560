@@ -1,2 +1,2 @@
 # test123560
-demo for classs
+demo for class
